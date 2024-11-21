@@ -9,11 +9,12 @@ Starting the correct version of Minecraft that matches the server version at lea
 
 These instructions are written for the Minecraft Launcher from the Xbox app/store on Windows:
 
-1. Select `Minecraft: Java Edition` from the left
-2. Across the top, select `Installations`
-3. Name this whatever you want
-4. IMPORTANT: Select version `1.20.1 Release`. You have to scroll a ways down. This is not the newest release because of mod compatability.
-5. From the `Installations` tab, hover the installtion you just created and select `Play`.
+1. Launch the Minecraft Launcher from Xbox on Windows
+2. Select `Minecraft: Java Edition` from the left
+3. Across the top, select `Installations`
+4. Name this whatever you want
+5. IMPORTANT: Select version `1.20.1 Release`. You have to scroll a ways down. This is not the newest release because of mod compatability.
+6. From the `Installations` tab, hover the installtion you just created and select `Play`.
 
 ## Step 1: Install Forge client
 
