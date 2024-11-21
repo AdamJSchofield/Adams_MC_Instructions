@@ -29,7 +29,7 @@ After you have started Minecraft v1.20.1 at least once:
 
 You should now have something like this:
 
-    ![alt text](image.png)
+![alt text](image.png)
 
 7. From the `Installations` tab, hover the installtion you just created with subtext `1.20.1-forge-47.3.5` and select `Play`.
 
