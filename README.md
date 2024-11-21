@@ -28,6 +28,7 @@ After you have started Minecraft v1.20.1 at least once:
 6. Repeat the steps from `Prerequisites` to create a new 'Installation'. This time select version `1.20.1-forge-47.3.5`.
 
 You should now have something like this:
+
 ![alt text](image.png)
 
 7. From the `Installations` tab, hover the installtion you just created with subtext `1.20.1-forge-47.3.5` and select `Play`.
