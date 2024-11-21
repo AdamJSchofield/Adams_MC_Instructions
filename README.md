@@ -1,7 +1,7 @@
 ## Prerequisites
 - Minecraft: Java Edition
 - Java Installed -- if you've never installed Java, get it from [here](https://www.java.com/download/ie_manual.jsp).
-- MinecraftSetup0.zip -- the folder this README is in. Extract this to a regular folder.
+- `Adams_MC_Instructions-main.zip` -- the folder this README is in. Download from GitHub with `Code > Download Zip`. Extract this to a new folder after you've downloaded it.
 
 ### Start Minecraft at least once
 
